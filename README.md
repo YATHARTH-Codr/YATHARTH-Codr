@@ -34,7 +34,7 @@
    <br/>
 <br/>
 <br/>
-__________________________________________________
+
 <br>
 <a href="https://github.com/YATHARTH-Codr/github-readme-activity-graph"><img alt="Yatharth's's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YATHARTH-Codr&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
